@@ -1,1 +1,1 @@
-print("Hola, este es el script del TP2")
+print("Hola, este es el script inicial del TP2")
